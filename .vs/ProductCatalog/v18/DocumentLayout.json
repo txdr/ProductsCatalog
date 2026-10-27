@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\productcatalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FADA2DE-2E0C-7686-CA42-073D89B748F6}|ProductCatalog.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\data\\products.json",
+              "RelativeDocumentMoniker": "data\\products.json",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\data\\products.json",
+              "RelativeToolTip": "data\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T03:36:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\ReadMe.md",
+              "RelativeDocumentMoniker": "ReadMe.md",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\ReadMe.md",
+              "RelativeToolTip": "ReadMe.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T03:36:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:36:37.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:36:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:33:52.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T23:31:04.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:11:15.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T23:09:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T23:09:01.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T23:07:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:44:38.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\ProductCatalog\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:40:44.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
